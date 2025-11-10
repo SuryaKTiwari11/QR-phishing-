@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Artifacts and model weights
+artifacts/
+*.pth
+*.pt
+
+# Dataset cache
+*.pkl
+
+# Data folders (do not push datasets)
+QR codes/
+data/
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.venv/
+*.env
+
+# VSCode
+.vscode/
+kaggle.json
+
+README_KAGGLE.md
+README_NOTEBOOK.md
+OPTIMIZATION_SUMMARY.md
+README_DEPLOYMENT.md
+README_STUDY_GUIDE.md
+QUICKSTART.md
+EVALUATION_GUIDE.md
+qr_model_evaluation_simple.ipynb
