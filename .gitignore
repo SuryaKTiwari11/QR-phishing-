@@ -43,3 +43,5 @@ QUICKSTART.md
 EVALUATION_GUIDE.md
 qr_model_evaluation_simple.ipynb
 test_predictions.csv
+app/
+*.csv
